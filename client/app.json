@@ -3,7 +3,7 @@
     "name": "messaging-app",
     "slug": "messaging",
     "privacy": "public",
-    "sdkVersion": "38.0.2",
+    "sdkVersion": "38.0.0",
     "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
